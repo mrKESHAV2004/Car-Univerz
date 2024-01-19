@@ -1,0 +1,92 @@
+
+.heading{
+        font-weight: bolder;
+        color: aliceblue;
+        line-height: 1.5;
+        font-size: 3rem;
+}
+.navbar-brand{
+        font-family: 'Ubuntu';
+        font-weight: bold;
+}
+
+.nav-item{
+        padding:0px 18px;
+}
+.nav-link{
+        font-size: 1.5rem;
+}
+.download-btn{
+        margin:5% 3% 5% 0%;
+}
+.title-img{
+        padding-left: 150px;
+}
+.feature-box{
+        text-align: center;
+        padding:5%;
+        font-family: 'Space Grotesk' bold;
+}
+.icon{
+        color: #ed2121;
+        padding-bottom: 1rem;
+}
+.icon:hover{
+        color: #b22222;
+}
+
+.testimonial-text{
+        font-family: 'Space Grotesk' bold;
+        font-size: 3rem;
+        line-height: 1.5;
+
+}
+.testimonial-image{
+        width: 10%;
+        height:auto;
+        border-radius: 100%;
+}
+.brands-img{
+        padding-left: 5%;
+        width:20%;
+}
+
+.carousel-item{
+        padding:0 15% 0 15%;
+}
+.btn-card{
+        width: 90%;
+}
+#title{
+        font-family: 'Space Grotesk', sans-serif;
+        height: 100%;
+        width: 100%;
+        background-color: azure;
+        height: 90%;
+}
+#testimonials{
+        background-color: firebrick;
+        padding: 5% 10%;
+        color:aliceblue;
+}
+#press{
+        background-color: firebrick;
+        padding-bottom: 4%;
+}
+#pricing{
+        padding: 100px;
+        text-align: center;
+}
+
+#footer{
+        background-color: #b22222;
+        color: azure;
+        padding-bottom:0px ;
+}
+@media (max-width:1020px){
+        .title-img{
+                position: static;
+                text-align:center;
+        }
+
+}
